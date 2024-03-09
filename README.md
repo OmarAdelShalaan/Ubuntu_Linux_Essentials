@@ -34,3 +34,4 @@
 - Cmnd_Alias USER = Commands
 - user2 ALL=USER
   ![sudoers.jpg](./sudoers.jpg)
+## CH06_File Ownership and Permissions
