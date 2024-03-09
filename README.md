@@ -14,3 +14,4 @@
 - exit
 ### VID06_Modifying User Accounts
 - sudo usermod -aG secondaryGroup user2 (g: primary group, G: secondary group, a: add)
+- userdel -r user2 (r: to delete user2 with home dir)
