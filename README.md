@@ -33,5 +33,4 @@
 - /etc/sudoers
 - Cmnd_Alias USER = Commands
 - user2 ALL=USER
-![](![image](https://github.com/OmarAdelShalaan/Ubuntu_Linux_Essentials/assets/61333881/1604c02f-f479-46b0-b67d-95a918c907a8)
-)
+  ![sudoers.jpg](./sudoers.jpg)
