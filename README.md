@@ -23,7 +23,7 @@
 - groupdel groupName
 - find /-nogroup
 - gpasswd
-### CH05_VID09_Changing Active Group
+### VID09_Changing Active Group
 - chgrp otherGroup fileName
 - newgrp groupName ; exit (to out from newgrp command)
 - groups
