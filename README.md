@@ -49,5 +49,7 @@
   - chmod u+x,go+r file
   - chmod ugo-x testFile
 - Octal Mode
-  - (owner 111, group 111, other 111) 777
+  - (owner (rwx)111, group (rwx)111, other (rwx)111) 777
   - chmod 777 file 
+### VID04_Set UID Bit
+![]()
