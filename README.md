@@ -35,3 +35,19 @@
 - user2 ALL=USER
   ![sudoers.jpg](./sudoers.jpg)
 ## CH06_File Ownership and Permissions
+### VID01_File Ownership
+- chown user1 file1
+- chown user1:group1 file1
+- chown :group1 file1
+### VID02_File Permissions
+- chmod u+x file
+- chmod 4775 file
+### VID03_Changing the Permissions
+- Symbolic Mode
+  - Operator (+, -, =)
+  - Permissions (r, w, x)
+  - chmod u+x,go+r file
+  - chmod ugo-x testFile
+- Octal Mode
+  - (owner 111, group 111, other 111) 777
+  - chmod 777 file 
