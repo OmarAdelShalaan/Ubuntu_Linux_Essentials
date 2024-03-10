@@ -1,6 +1,6 @@
 # Ubuntu_Linux_Essentials
 ## Mahara-Tech
-#
+
 ## CH05_User and Group Administration
 ### VID04_Adding a New User Account
 - sudo useradd user1
