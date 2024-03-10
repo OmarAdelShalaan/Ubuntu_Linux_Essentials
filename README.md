@@ -30,7 +30,7 @@
 ### VID10_Switching Accounts
 - su - user2 -c ls
 ### VID11_"sudo" Command
-- /etc/sudoers
+- /etc/sudoersin
 - Cmnd_Alias USER = Commands
 - user2 ALL=USER
   ![sudoers.jpg](./sudoers.jpg)
@@ -53,3 +53,5 @@
   - chmod 777 file 
 ### VID04_Set UID Bit
 ![VID04_Set_UID_Bit.jpg](./VID04_Set_UID_Bit.jpg)
+### VID05_Set GID Bit
+- 
