@@ -55,3 +55,28 @@
 ![VID04_Set_UID_Bit.jpg](./VID04_Set_UID_Bit.jpg)
 ### VID05_Set GID Bit
 - 
+### VID06_Sticky Bits
+- Sticky Bits make available creation and prevent deletion
+### VID07_The Default Permissions
+- umask
+- umask 000 (default)
+## CH07_Shutting Down/Rebooting the System
+### VID01_The Default PermissionsVirtual Consoles
+- Ctrl + Alt + (F1 to F7)
+### VID02_The Default PermissionsSystem Shutdown and Reboot
+- shutdown
+  - init 0
+  - poweroff
+  - shutdown -h time (Halt after shutdown)
+  - shutdown -k now
+- reboot
+  - shutdown -r
+  - reboot
+  - init 6
+  -  Ctrl + Alt + Del
+ 
+
+
+
+
+
