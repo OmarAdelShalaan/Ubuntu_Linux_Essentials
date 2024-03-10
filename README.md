@@ -1,5 +1,7 @@
 # Ubuntu_Linux_Essentials
 ## Mahara-Tech
+## ([CH05_User and Group Administration]() [CH06_File Ownership and Permissions]() [CH07_Shutting Down/Rebooting the System]() [CH08_Overview_ Network Configuration & Initialization Files]())
+
 
 ## CH05_User and Group Administration
 ### VID04_Adding a New User Account
@@ -34,6 +36,8 @@
 - Cmnd_Alias USER = Commands
 - user2 ALL=USER
   ![sudoers.jpg](./sudoers.jpg)
+
+
 ## CH06_File Ownership and Permissions
 ### VID01_File Ownership
 - chown user1 file1
@@ -60,6 +64,8 @@
 ### VID07_The Default Permissions
 - umask
 - umask 000 (default)
+
+
 ## CH07_Shutting Down/Rebooting the System
 ### VID01_The Default PermissionsVirtual Consoles
 - Ctrl + Alt + (F1 to F7)
@@ -75,6 +81,8 @@
   - init 6
   -  Ctrl + Alt + Del
  
+ 
+## CH08_Overview_ Network Configuration & Initialization Files
 
 
 
