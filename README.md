@@ -52,4 +52,4 @@
   - (owner (rwx)111, group (rwx)111, other (rwx)111) 777
   - chmod 777 file 
 ### VID04_Set UID Bit
-![]()
+![VID04_Set_UID_Bit.jpg](./VID04_Set_UID_Bit.jpg)
