@@ -1,6 +1,6 @@
 # Ubuntu_Linux_Essentials
 ## Mahara-Tech
-([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files))
+([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files)) ([CH09_Processes, Priorities and Signals](#CH09-Processes,-Priorities-and-Signals))
 
 
 ## CH05_User and Group Administration
@@ -90,6 +90,23 @@
 ### VID02_Shell Initialization Files
 - .bashrc
 - .profile
+### VID03_Environment Variables
+- PATH=$PATH:(add to path)
+- (in .bashrc) PATH=$PATH:(add to path)
+- PS1="$ "
+### VID04_More about Environment Variables
+- set
+- env
+- printenv $PATH
+- $PWD
+- $HOSTNAME
+- $USERNAME
+### VID05_Alias Command
+- alias
+- alias c=clear
+- unalias c
+- alias ls="ls -la"
+- \ls or command with path to use the default command
 
-
-
+## CH09_Processes, Priorities and Signals
+### 
