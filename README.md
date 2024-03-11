@@ -81,10 +81,15 @@
   - init 6
   -  Ctrl + Alt + Del
  
- 
 ## CH08_Overview_ Network Configuration & Initialization Files
-
-
+### VID01_The Default PermissionsNetwork Configuration
+- hostname
+- /etc/host
+- ls /sys/class/net
+- ifconfig -a
+### VID02_Shell Initialization Files
+- .bashrc
+- .profile
 
 
 
