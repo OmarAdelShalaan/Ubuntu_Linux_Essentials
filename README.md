@@ -169,7 +169,11 @@
 - ls -i 
 ### VID02_Soft Link 
 - ln -s file file-soft
-
-
+### VID04_Search for files
+- locate passwd (show system)
+- find passwd (show from (.) now dir)
 
 ## CH13_Compress and Archive Files
+### VID01_File Archiving
+![VID01_File Archiving]()
+### VID02_File Compression
