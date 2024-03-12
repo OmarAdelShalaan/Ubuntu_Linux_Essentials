@@ -165,8 +165,10 @@
 - sort -k 4 -t : -n /etc/passwd
 
 ## CH12_Inodes, Links, and Search for Files  
-### 
-
+### VID01_Inodes
+- ls -i 
+### VID02_Soft Link 
+- ln -s file file-soft
 
 
 
