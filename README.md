@@ -1,6 +1,6 @@
 # Ubuntu_Linux_Essentials
 ## Mahara-Tech
-([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files)) ([CH09_Processes, Priorities and Signals](#ch09_processes-priorities-and-signals)) ([CH10_Input-Output Redirection and Piping](#ch10_input-output-redirection-and-piping)) ([CH11_Sort and Compare Files](#ch11_sort-and-compare-files))
+([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files)) ([CH09_Processes, Priorities and Signals](#ch09_processes-priorities-and-signals)) ([CH10_Input-Output Redirection and Piping](#ch10_input-output-redirection-and-piping)) ([CH11_Sort and Compare Files](#ch11_sort-and-compare-files)) ([CH12_Inodes, Links, and Search for Files](#ch12_inodes-links-and-search-for-files)) ([CH13_Compress and Archive Files](#CH13_Compress-and-Archive-Files))
 
 
 ## CH05_User and Group Administration
