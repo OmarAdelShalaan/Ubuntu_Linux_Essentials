@@ -109,4 +109,28 @@
 - \ls or command with path to use the default command
 
 ## CH09_Processes, Priorities and Signals
+### VID01_Processes
+- ps -eo pid, ppid, ni, comm
+### VID02_Change Process Priority
+- nice 
+- ps
+- ps -f
+- ps -l
+- nice -n 10 bash
+- renice 20 -p (PID)
+### VID03_Overview of Signals
+- top
+- kill -STGTERM  (PID)
+### VID04_Send a Signal to a Process
+- kill [-signal] PIDs
+- man -s7 signal
+- sleep 20
+- sleep 20 & ((to work in background))
+- jobs
+- kill -STOP %(JobID)
+- fg %(JobID) (to work in frontground)
+- bg %(JobID) (to work in background)
+- pkill [-signal] process-name
+
+## CH10_Input-Output Redirection and Piping
 ### 
