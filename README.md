@@ -1,6 +1,6 @@
 # Ubuntu_Linux_Essentials
 ## Mahara-Tech
-([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files)) ([CH09_Processes, Priorities and Signals](#ch09_processes-priorities-and-signals))
+([CH05_User and Group Administration](#ch05_user-and-group-administration)) ([CH06_File Ownership and Permissions](#CH06_File-Ownership-and-Permissions)) ([CH07_Shutting Down/Rebooting the System](#ch07_shutting-downrebooting-the-system)) ([CH08_Overview_ Network Configuration & Initialization Files](#ch08_overview_-network-configuration--initialization-files)) ([CH09_Processes, Priorities and Signals](#ch09_processes-priorities-and-signals)) ([CH10_Input-Output Redirection and Piping](#ch10_input-output-redirection-and-piping))
 
 
 ## CH05_User and Group Administration
@@ -133,4 +133,11 @@
 - pkill [-signal] process-name
 
 ## CH10_Input-Output Redirection and Piping
-### 
+### VID01_Output Redirection
+- > overwrite
+- >> append 
+- tr i I < file
+- find
+- mail < file (mail to users)
+- ls -R / >op 2>error
+ 
