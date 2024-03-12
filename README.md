@@ -175,5 +175,11 @@
 
 ## CH13_Compress and Archive Files
 ### VID01_File Archiving
-![VID01_File Archiving]()
+![VID01_File Archiving](./VID01_File_Archiving.jpg)
 ### VID02_File Compression
+
+## After Course
+![next course](./next_course.jpg)
+
+## Resource
+![Resource](./resource.jpg)
