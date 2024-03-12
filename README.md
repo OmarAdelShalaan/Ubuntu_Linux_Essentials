@@ -140,4 +140,34 @@
 - find
 - mail < file (mail to users)
 - ls -R / >op 2>error
- 
+### VID03_pipe & tee Commands
+- tee
+- ls | tee fileName |more
+
+## CH11_Sort and Compare Files
+### VID01_wc & diff Commands
+- wc /etc/passwd
+- wc -l /etc/passwd
+- wc -w /etc/passwd
+- wc -c /etc/passwd
+- diff file1 file2
+### VID02_cut & grep Commands
+- cut -f1,6 -d: /etc/passwd
+- grep -w user /etc/passwd
+- grep ^user /etc/passwd
+- grep -v user /etc/passwd
+- grep -i user /etc/passwd
+- grep -ic user /etc/passwd
+- grep -il user /etc/passwd
+### VID03_sort Command
+- sort /etc/passwd
+- sort -k 4 -t : /etc/passwd
+- sort -k 4 -t : -n /etc/passwd
+
+## CH12_Inodes, Links, and Search for Files  
+### 
+
+
+
+
+## CH13_Compress and Archive Files
